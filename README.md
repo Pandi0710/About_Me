@@ -2,10 +2,10 @@
 <h3 align="center">🔧 Back-End Enthusiast | Full-stack Developer |UI &UX Designer </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/linkedin.com/in/sankaja-pandipperuma-477a7b268">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:pandipperumasankaja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-portfolio.com">

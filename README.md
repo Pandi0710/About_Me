@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sankaja Pandipperuma 👋</h1>
-<h3 align="center">🔧 Back-End Enthusiast | Full-stack Developer |UI &UX Designer </h3>
+<h3 align="center">🔧UI &UX Designer| Full-stack Developer | </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/linkedin.com/in/sankaja-pandipperuma-477a7b268">
